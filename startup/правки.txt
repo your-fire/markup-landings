@@ -1,0 +1,10 @@
++  1. about__item -> about__items
++  2. about__info -> about__item
++  3. about__wrap -> about__item-wrap
+  +  3.1. Перенести стили ховера с about__wrap-images на about__item-wrap
+  +  3.2. about__wrap-images - удалить
+  +  3.3. about__wrap-img - что бы убрать отступ при наведении -> display: block; (у картинок по    у молчанию есть отступ снизу)
++  4. about__info-name -> about__item-name
++  5. Убрать margin-bottom c about__info-position и перенести на about__items
++  6. about__info-position -> about__item-position
+ 
